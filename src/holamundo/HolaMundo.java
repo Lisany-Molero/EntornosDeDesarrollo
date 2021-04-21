@@ -18,8 +18,8 @@ public class HolaMundo {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("primer programa para usar gitHub");
+        System.out.println("Probando version 1: usando branch en Github");
         
-        System.out.println("Probando version 1");
         
     }
     
