@@ -20,7 +20,7 @@ public class HolaMundo {
         System.out.println("primer programa para usar gitHub");
         
         System.out.println("Probando version 1");
-        System.out.println("Probando version 2");
+        
     }
     
 }
